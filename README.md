@@ -25,6 +25,7 @@ It is a concrete example for maintainers running a Python API, worker, or backen
 - `docs/RUNBOOK.md`: example operational notes maintainers should keep current
 - `docs/ARCHITECTURE.md`: example service-boundary notes maintainers should keep current
 - `service/README.md`: example service-surface notes worth reviewing before merge
+- `.github/workflows/ci-smoke.yml`: editable starting point for service tests and smoke checks
 
 ## What this preset is trying to optimize
 
