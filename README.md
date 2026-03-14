@@ -23,6 +23,7 @@ It is a concrete example for maintainers running a Python API, worker, or backen
 - `docs/START_HERE.md`: the fastest orientation pass for a service maintainer
 - `docs/MAINTAINER_WORKFLOW.md`: how to review runtime and deploy risk
 - `docs/RUNBOOK.md`: example operational notes maintainers should keep current
+- `docs/ARCHITECTURE.md`: example service-boundary notes maintainers should keep current
 - `service/README.md`: example service-surface notes worth reviewing before merge
 
 ## What this preset is trying to optimize

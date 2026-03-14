@@ -1,6 +1,14 @@
 # Runbook Notes
 
-This file exists to show the kind of operational context maintainers should keep close to a service repo.
+This file exists so operational recovery steps stay close to the repo.
+
+## Keep this current
+
+- required environment variables and secrets
+- health checks and smoke-check commands
+- dashboards, logs, and alerts worth checking first
+- rollback or recovery steps for risky changes
+- known failure modes for jobs, queues, or integrations
 
 ## Example checklist
 
