@@ -24,6 +24,7 @@ It is a concrete example for maintainers running a Python API, worker, or backen
 - `docs/MAINTAINER_WORKFLOW.md`: how to review runtime and deploy risk
 - `docs/RUNBOOK.md`: example operational notes maintainers should keep current
 - `docs/ARCHITECTURE.md`: example service-boundary notes maintainers should keep current
+- `docs/SMOKE_COMMANDS.md`: copyable starter patterns for `SMOKE_COMMAND`
 - `service/README.md`: example service-surface notes worth reviewing before merge
 - `.github/workflows/ci-smoke.yml`: editable starting point for service tests and smoke checks, with `uv` and `requirements.txt` starter detection
 
